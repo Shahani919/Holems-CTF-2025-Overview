@@ -1,7 +1,12 @@
-# Holems CTF 2025 
-This repository contains the challenges Answers in the **Holems CTF 2025**. It serves as a reference for the challenges completed 
+```markdown
+# Holems CTF 2025
+
+This repository contains the **answers to the challenges** from Holems CTF 2025. It serves as a reference for the challenges completed and the approaches used to solve them.  
 
 ## Repository Structure
+
+```
+
 Holems-CTF-2025-Answers/
 │── README.md
 │── challenge-answers/
@@ -11,8 +16,9 @@ Holems-CTF-2025-Answers/
 │   ├── TunnelWithoutWalls.md
 │   └── ThePayload.md
 
+```
 
-- `challenge-answers/` – Contains individual markdown files for each challenge, documenting the answers. 
+- `challenge-answers/` – Contains individual markdown files for each challenge, documenting the solutions and answers.  
   - `TheCard.md` – Solution for **The Card** challenge.  
   - `EnduringEcho.md` – Solution for **Enduring Echo** challenge.  
   - `WatchmansResidue.md` – Solution for **Watchman's Residue** challenge.  
@@ -20,4 +26,7 @@ Holems-CTF-2025-Answers/
   - `ThePayload.md` – Solution for **The Payload** challenge.  
 
 ## Disclaimer
-This repository is meant for educational and reference purposes only. Use the knowledge responsibly.  
+
+This repository is intended for **educational and reference purposes only**. Use the knowledge responsibly.  
+```
+
