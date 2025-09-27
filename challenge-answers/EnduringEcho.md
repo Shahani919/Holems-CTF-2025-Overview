@@ -53,5 +53,7 @@ HKLM\SYSTEM\CurrentControlSet\Services\PortProxy\v4tov4\tcp
 T1090.001
 
 **Q14. Before the attack, the administrator configured Windows to capture command line details in the event logs. What command did they run to achieve this? (command)**
+
 reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System\Audit" /v ProcessCreationIncludeCmdLine_Enabled /t REG_DWORD /d 1 /f
+
 
