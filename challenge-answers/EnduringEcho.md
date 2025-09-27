@@ -1,7 +1,11 @@
+# The Enduring Echo (Easy)
+
 **What was the first (non cd) command executed by the attacker on the host? (string)**
+
 systeminfo
 
 **Which parent process (full path) spawned the attacker’s commands? (C:\FOLDER\PATH\FILE.ext)**
+
 C:\Windows\System32\wbem\WmiPrvSE.exe
 
 **Which remote-execution tool was most likely used for the attack? (filename.ext)**
@@ -39,3 +43,4 @@ T1090.001
 
 **Before the attack, the administrator configured Windows to capture command line details in the event logs. What command did they run to achieve this? (command)**
 reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System\Audit" /v ProcessCreationIncludeCmdLine_Enabled /t REG_DWORD /d 1 /f
+
